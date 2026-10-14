@@ -1,5 +1,4 @@
 # Leetcode-Submission
-# LeetCode Submissions
 
 My LeetCode solutions using Python.
 
